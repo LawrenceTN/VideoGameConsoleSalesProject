@@ -20,4 +20,5 @@ However, Microsoft never released to the public the yearly sales of the 8th gene
 Although this sort of data can never be truly accurate, the purpose of this project is to give a general picture of who was the victor in each generation's "Console Wars".
 
 Created by Lawrence Nieto
+
 Feb 2022
