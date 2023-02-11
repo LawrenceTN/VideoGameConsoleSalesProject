@@ -1,5 +1,5 @@
 # VideoGameConsoleSalesProject
-A quick study between the sales of 6th-9th generation video game consoles from Nintendo, Microsoft, and Sony.
+A quick study of the sales from the 6th - 9th generation video game consoles from Nintendo, Microsoft, and Sony.
 
 LINK TO TABLEAU DASHBOARD: https://public.tableau.com/app/profile/lawrence.nieto/viz/GameConsoleSales_16759323625490/Dashboard1
 
